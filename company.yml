@@ -1,2 +1,5 @@
-message: Config for roster app
+// you can use 3 dashes to separate yaml documents/sections in the same file.
+spring:
+  profiles: cloud
 
+message: Steve
